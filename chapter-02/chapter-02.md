@@ -1,0 +1,5 @@
+- `tar xzf housing.tgz`
+- [pandas.DataFrame.where](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.where.html)
+    - `Replace values where the condition is False.`
+- [Jupyter Notebook Keyboard Shortcuts - Mac](https://gist.github.com/kidpixo/f4318f8c8143adee5b40)
+- 
